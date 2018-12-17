@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "873689908967",
+    "firebase_url": "https://modoo-89867.firebaseio.com",
+    "project_id": "modoo-89867",
+    "storage_bucket": "modoo-89867.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873689908967:android:e923893772a33874",
+        "android_client_info": {
+          "package_name": "com.minsung.examples"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873689908967-fclgef90f7jcvmhpb4h515dohpst2125.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP5QwHNLw5xIyCUaPmF0OLpcoemewe5yg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873689908967:android:c593205cf0832bb8",
+        "android_client_info": {
+          "package_name": "com.minsung.examples.trafficlight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873689908967-fclgef90f7jcvmhpb4h515dohpst2125.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP5QwHNLw5xIyCUaPmF0OLpcoemewe5yg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
